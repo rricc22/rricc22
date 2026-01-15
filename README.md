@@ -4,23 +4,23 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 From the foundry floor to neural networks - I build AI that solves real manufacturing problems.
 
 Spent **3 years at Howmet Aerospace** developing gas turbine components, where I saw firsthand how quality issues impact production. Now pursuing **MSc AI at CentraleSupélec** to bring cutting-edge ML to aerospace manufacturing. 
 
-Specialized in **materials characterization through deep learning**: built YOLO-based systems for steel microstructure classification, CNNs for casting defect detection, and **Physics-Informed Neural Networks** that solve computational physics problems **3.21× faster**.
+Focusing in **materials characterization through deep learning**: built YOLO-based systems for steel microstructure classification, CNNs for casting defect detection, and **Physics-Informed Neural Networks** that solve computational physics problems.
 
-🔬 **Upcoming:** Internship at **SAFRAN TECH POLE** focusing on microstructure prediction
+ **Upcoming:** Internship at **SAFRAN TECH POLE** focusing on microstructure prediction
 
-🌍 **Franco-Italian** | Fluent in 🇮🇹🇫🇷🇬🇧 (TOEIC 910, IELTS 7/9) + 🇪🇸🇯🇵
+ **Franco-Italian** | Fluent in 🇮🇹🇫🇷🇬🇧 (TOEIC 910, IELTS 7/9) + 🇪🇸🇯🇵
 
-📫 **Looking for:** AI/ML opportunities in aerospace, manufacturing, and materials science
+ **Looking for:** AI/ML opportunities in aerospace, manufacturing, and materials science
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riccardo-castellano-7a091422a) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://riccardoai-portfolio.com)
@@ -57,37 +57,37 @@ Specialized in **materials characterization through deep learning**: built YOLO-
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [Physics-Informed Neural Networks for Heat Equation](https://github.com/rricc22/MSc-AI-CentraleSupelec)
+###  [Physics-Informed Neural Networks for Heat Equation](https://github.com/rricc22/MSc-AI-CentraleSupelec)
 Developed conditional PINNs solving 2D heat diffusion with **3.21× performance improvement** over image-based approaches. Systematic comparison of CNN vs MLP vs PINN architectures.
 
-### 🔬 [Steel Microstructure Classification](https://github.com/rricc22/Steel_microstrucure_class_prjt)
+###  [Steel Microstructure Classification](https://github.com/rricc22/Steel_microstrucure_class_prjt)
 YOLO-based system for automated Martensite/Pearlite identification in steel samples. Full-stack deployment with Flask.
 
-### ❤️ [Heart Rate Prediction from Activity Data](https://github.com/rricc22/SUB_3H_42KM_DL)
+###  [Heart Rate Prediction from Activity Data](https://github.com/rricc22/SUB_3H_42KM_DL)
 LSTM & Transfer Learning achieving **MAE: 8.94 BPM** on physiological time-series data.
 
-### 🎮 [Vampires vs Werewolves AI](https://github.com/rricc22/vampires-vs-werewolves-ai)
+###  [Vampires vs Werewolves AI](https://github.com/rricc22/vampires-vs-werewolves-ai)
 Strategic game AI using Alpha-Beta pruning with smart move filtering. Production ready!
 
-### 📊 [Pfizer Territory Optimization](https://github.com/rricc22/Pfizer-Territory-Optimization)
+###  [Pfizer Territory Optimization](https://github.com/rricc22/Pfizer-Territory-Optimization)
 Multi-objective optimization for sales territory assignment using NSGA-II and Simulated Annealing.
 
-### 🏎️ [Formula 1 Data Analysis](https://github.com/rricc22/F1)
+###  [Formula 1 Data Analysis](https://github.com/rricc22/F1)
 Formula 1 data analysis and visualization using Python, exploring race strategies and performance metrics.
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
-- 🥇 **TensorFlow Developer Certificate** - Google
-- 📚 **Google ML Engineer Path** (8/12 badges completed)
-- 🎓 **Deep Learning Specialization** - DeepLearning.AI (Coursera)
+-  **TensorFlow Developer Certificate** - Google
+-  **Google ML Engineer Path** (8/12 badges completed)
+-  **Deep Learning Specialization** - DeepLearning.AI (Coursera)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rricc22&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rricc22&theme=noctis_minimus&hide_border=true)<br/>
@@ -95,25 +95,25 @@ Formula 1 data analysis and visualization using Python, exploring race strategie
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🔬 Preparing for internship at **SAFRAN TECH POLE** (microstructure prediction)
-- 📚 Advancing in **Google ML Engineer Path**
-- 🤖 Exploring **robotics control** and **physics-guided machine learning**
-- 📊 Building production-grade ML systems with **MLOps best practices**
-
----
-
-## 💡 Fun Facts
-
-- 🏃‍♂️ Marathon runner - trained ML models to predict heart rate during runs
-- 🏎️ F1 enthusiast - analyzing race data with Python
-- 🗾 Studied Japanese with 3-month immersion (100+ hours)
-- 🎮 Built strategic game AI that beats human players
+-  Preparing for internship at **SAFRAN TECH POLE** (microstructure prediction)
+-  Advancing in **Google ML Engineer Path**
+-  Exploring **robotics control** and **physics-guided machine learning**
+-  Building production-grade ML systems with **MLOps best practices**
 
 ---
 
-### 📈 Profile Views
+##  Fun Facts
+
+-  Marathon runner - trained ML models to predict heart rate during runs
+-  F1 enthusiast - analyzing race data with Python
+-  Studied Japanese with 3-month immersion (100+ hours)
+-  Built strategic game AI that beats human players
+
+---
+
+###  Profile Views
 
 ![](https://komarev.com/ghpvc/?username=rricc22&color=blueviolet&style=flat-square)
 

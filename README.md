@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riccardo Castellano
+# Hi, I'm Riccardo Castellano
 
 ### MSc AI @ CentraleSupélec | Materials Engineer | TensorFlow Certified Developer
 
@@ -28,7 +28,7 @@ Focusing in **materials characterization through deep learning**: built YOLO-bas
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### AI/ML Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
